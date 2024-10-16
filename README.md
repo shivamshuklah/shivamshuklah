@@ -85,8 +85,8 @@ Some of the projects I'm proud of:
   <a href="https://github.com/shivamshuklah/bmi_app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamshuklah&repo=bmi_app&theme=tokyonight&bg_color=141321&hide_border=true" alt="MERN E-commerce Project">
   </a>
-  <a href="https://github.com/shivamshuklah/learnings">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamshuklah&repo=learnings&theme=tokyonight&bg_color=141321&hide_border=true" alt="AI Weather App">
+  <a href="https://github.com/shivamshuklah/to-do-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamshuklah&repo=to-do-app&theme=tokyonight&bg_color=141321&hide_border=true" alt="AI Weather App">
   </a>
 </p>
 
