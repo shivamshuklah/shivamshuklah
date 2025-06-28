@@ -77,18 +77,50 @@ Here's what I work with:
 
 ---
 
-### 🚀 My Projects
+## 🚀 My Projects
 
 Some of the projects I'm proud of:
 
 <p align="center">
-  <a href="https://github.com/shivamshuklah/bmi_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamshuklah&repo=bmi_app&theme=tokyonight&bg_color=141321&hide_border=true" alt="MERN E-commerce Project">
+  <a href="https://github.com/shivamshuklah/fastapi-fullstack">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shivamshuklah&repo=fastapi-fullstack&theme=tokyonight&bg_color=141321&hide_border=true" alt="FastAPI Fullstack">
   </a>
-  <a href="https://github.com/shivamshuklah/to-do-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamshuklah&repo=to-do-app&theme=tokyonight&bg_color=141321&hide_border=true" alt="AI Weather App">
+  <a href="https://github.com/shivamshuklah/titanic-survival-prediction">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shivamshuklah&repo=titanic-survival-prediction&theme=tokyonight&bg_color=141321&hide_border=true" alt="Titanic Survival Prediction">
   </a>
 </p>
+
+- **[FastAPI Fullstack](https://github.com/shivamshuklah/fastapi-fullstack)** – A modern full-stack app using FastAPI, React, and PostgreSQL.
+- **[Titanic Survival Prediction](https://github.com/shivamshuklah/titanic-survival-prediction)** – Machine learning project to predict passenger survival using logistic regression and decision trees.
+
+---
+
+<p align="center">
+  <a href="https://github.com/shivamshuklah/house-price-prediction">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shivamshuklah&repo=house-price-prediction&theme=tokyonight&bg_color=141321&hide_border=true" alt="House Price Prediction">
+  </a>
+  <a href="https://github.com/shivamshuklah/django-ecommerce-master">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shivamshuklah&repo=django-ecommerce-master&theme=tokyonight&bg_color=141321&hide_border=true" alt="Django E-commerce">
+  </a>
+</p>
+
+- **[House Price Prediction](https://github.com/shivamshuklah/house-price-prediction)** – Regression model predicting real estate prices using scikit-learn.
+- **[Django E-commerce](https://github.com/shivamshuklah/django-ecommerce-master)** – Feature-rich e-commerce site with Django backend and JavaScript frontend.
+
+---
+
+<p align="center">
+  <a href="https://github.com/shivamshuklah/to-do-app">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shivamshuklah&repo=to-do-app&theme=tokyonight&bg_color=141321&hide_border=true" alt="To-Do App">
+  </a>
+  <a href="https://github.com/shivamshuklah/bmi_app">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shivamshuklah&repo=bmi_app&theme=tokyonight&bg_color=141321&hide_border=true" alt="BMI App">
+  </a>
+</p>
+
+- **[To-Do App](https://github.com/shivamshuklah/to-do-app)** – Simple React + Vite app for managing tasks with a clean UI.
+- **[BMI App](https://github.com/shivamshuklah/bmi_app)** – Flutter application to calculate and categorize Body Mass Index.
+
 
 ---
 
